@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:34:25.999Z",
+  "generated_at": "2026-10-19T23:46:54.047Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -143,6 +143,19 @@
       "last_pushed_at": "2026-10-19T18:34:25.423Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:1465": {
+      "kind": "problem",
+      "id": "1465",
+      "title": "Vectorized K-Means with Broadcasting",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1465",
+      "path": "problems/1465-vectorized-k-means-with-broadcasting",
+      "first_solved_at": "2026-10-19T23:46:53.326Z",
+      "last_pushed_at": "2026-10-19T23:46:53.326Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
