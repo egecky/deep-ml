@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:18:20.488Z",
+  "generated_at": "2026-10-20T00:28:40.902Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -156,6 +156,19 @@
       "last_pushed_at": "2026-10-20T00:18:19.916Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:173": {
+      "kind": "problem",
+      "id": "173",
+      "title": "Implement K-Nearest Neighbors",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/173",
+      "path": "problems/0173-implement-k-nearest-neighbors",
+      "first_solved_at": "2026-10-20T00:28:40.339Z",
+      "last_pushed_at": "2026-10-20T00:28:40.339Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
