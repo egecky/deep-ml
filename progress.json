@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T00:28:40.902Z",
+  "generated_at": "2026-10-21T22:11:33.301Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,19 @@
       "last_pushed_at": "2026-10-20T00:28:40.339Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:810": {
+      "kind": "problem",
+      "id": "810",
+      "title": "Bagging with Random Patches and 1-Nearest Neighbor",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/810",
+      "path": "problems/0810-bagging-with-random-patches-and-1-nearest-neighbor",
+      "first_solved_at": "2026-10-21T22:11:32.708Z",
+      "last_pushed_at": "2026-10-21T22:11:32.708Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }
